@@ -1,3 +1,3 @@
 # Digital_simulation
 ![diagram](Tyszer.png)
-![diagram](model.png)
+![diagram](schemat blokowy.png)
