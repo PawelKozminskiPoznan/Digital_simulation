@@ -1,0 +1,600 @@
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2583
+Krew przechodzaca przez punkt gr.A = 1883
+Krew przechodzaca przez punkt gr.B = 700
+Krew przechodzaca przez punkt gr.A % = 72
+Krew przechodzaca przez punkt gr.B % = 27
+Zuzyta krew przez pacjentow = 1058
+Krew wyslana na badania naukowe = 185
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 95
+Srednia liczba jednostek krwi w kolejce = 5.74962
+Zutylizowana krew = 1321
+Zutylizowana krew z normalnego zamowienia = 456
+Zutylizowana krew ze specjalneg zamowienia = 284
+Zutylizowana krew od dawcow = 581
+Procent zutylizowanej krwi = 51.1421%
+Procent zutylizowanej krwi z normalnego zamowienia = 17.6539%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.995%
+Procent zutylizowanej krwi od dawcow = 0.851723%
+Pacjentow przechodzacych przez punkt = 235
+Srednia liczba pacjentow w kolejce = 0.358779
+Liczba normalnych zamowien = 36
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.56489%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2545
+Krew przechodzaca przez punkt gr.A = 1915
+Krew przechodzaca przez punkt gr.B = 630
+Krew przechodzaca przez punkt gr.A % = 75
+Krew przechodzaca przez punkt gr.B % = 24
+Zuzyta krew przez pacjentow = 1116
+Krew wyslana na badania naukowe = 180
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 90
+Srednia liczba jednostek krwi w kolejce = 5.32684
+Zutylizowana krew = 1260
+Zutylizowana krew z normalnego zamowienia = 348
+Zutylizowana krew ze specjalneg zamowienia = 350
+Zutylizowana krew od dawcow = 562
+Procent zutylizowanej krwi = 49.5088%
+Procent zutylizowanej krwi z normalnego zamowienia = 13.6739%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 13.7525%
+Procent zutylizowanej krwi od dawcow = 1.72888%
+Pacjentow przechodzacych przez punkt = 270
+Srednia liczba pacjentow w kolejce = 0.375522
+Liczba normalnych zamowien = 34
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.98053%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2494
+Krew przechodzaca przez punkt gr.A = 1969
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 78
+Krew przechodzaca przez punkt gr.B % = 21
+Zuzyta krew przez pacjentow = 1063
+Krew wyslana na badania naukowe = 190
+Krew wyslana na badania naukowe gr.A = 115
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.56215
+Zutylizowana krew = 1263
+Zutylizowana krew z normalnego zamowienia = 411
+Zutylizowana krew ze specjalneg zamowienia = 382
+Zutylizowana krew od dawcow = 470
+Procent zutylizowanej krwi = 50.6415%
+Procent zutylizowanej krwi z normalnego zamowienia = 16.4796%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 15.3168%
+Procent zutylizowanej krwi od dawcow = 1.60385%
+Pacjentow przechodzacych przez punkt = 264
+Srednia liczba pacjentow w kolejce = 0.372881
+Liczba normalnych zamowien = 34
+Liczba specialnych zamowien = 41
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.79096%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2703
+Krew przechodzaca przez punkt gr.A = 2108
+Krew przechodzaca przez punkt gr.B = 595
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1098
+Krew wyslana na badania naukowe = 210
+Krew wyslana na badania naukowe gr.A = 125
+Krew wyslana na badania naukowe gr.B= 85
+Srednia liczba jednostek krwi w kolejce = 6.1909
+Zutylizowana krew = 1451
+Zutylizowana krew z normalnego zamowienia = 498
+Zutylizowana krew ze specjalneg zamowienia = 428
+Zutylizowana krew od dawcow = 525
+Procent zutylizowanej krwi = 53.6811%
+Procent zutylizowanej krwi z normalnego zamowienia = 18.424%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 15.8343%
+Procent zutylizowanej krwi od dawcow = 1.10988%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.370044
+Liczba normalnych zamowien = 37
+Liczba specialnych zamowien = 45
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.60793%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2583
+Krew przechodzaca przez punkt gr.A = 1883
+Krew przechodzaca przez punkt gr.B = 700
+Krew przechodzaca przez punkt gr.A % = 72
+Krew przechodzaca przez punkt gr.B % = 27
+Zuzyta krew przez pacjentow = 1058
+Krew wyslana na badania naukowe = 185
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 95
+Srednia liczba jednostek krwi w kolejce = 5.74962
+Zutylizowana krew = 1321
+Zutylizowana krew z normalnego zamowienia = 456
+Zutylizowana krew ze specjalneg zamowienia = 284
+Zutylizowana krew od dawcow = 581
+Procent zutylizowanej krwi = 51.1421%
+Procent zutylizowanej krwi z normalnego zamowienia = 17.6539%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.995%
+Procent zutylizowanej krwi od dawcow = 0.851723%
+Pacjentow przechodzacych przez punkt = 235
+Srednia liczba pacjentow w kolejce = 0.358779
+Liczba normalnych zamowien = 36
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.56489%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2545
+Krew przechodzaca przez punkt gr.A = 1915
+Krew przechodzaca przez punkt gr.B = 630
+Krew przechodzaca przez punkt gr.A % = 75
+Krew przechodzaca przez punkt gr.B % = 24
+Zuzyta krew przez pacjentow = 1116
+Krew wyslana na badania naukowe = 180
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 90
+Srednia liczba jednostek krwi w kolejce = 5.32684
+Zutylizowana krew = 1260
+Zutylizowana krew z normalnego zamowienia = 348
+Zutylizowana krew ze specjalneg zamowienia = 350
+Zutylizowana krew od dawcow = 562
+Procent zutylizowanej krwi = 49.5088%
+Procent zutylizowanej krwi z normalnego zamowienia = 13.6739%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 13.7525%
+Procent zutylizowanej krwi od dawcow = 1.72888%
+Pacjentow przechodzacych przez punkt = 270
+Srednia liczba pacjentow w kolejce = 0.375522
+Liczba normalnych zamowien = 34
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.98053%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2494
+Krew przechodzaca przez punkt gr.A = 1969
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 78
+Krew przechodzaca przez punkt gr.B % = 21
+Zuzyta krew przez pacjentow = 1063
+Krew wyslana na badania naukowe = 190
+Krew wyslana na badania naukowe gr.A = 115
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.56215
+Zutylizowana krew = 1263
+Zutylizowana krew z normalnego zamowienia = 411
+Zutylizowana krew ze specjalneg zamowienia = 382
+Zutylizowana krew od dawcow = 470
+Procent zutylizowanej krwi = 50.6415%
+Procent zutylizowanej krwi z normalnego zamowienia = 16.4796%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 15.3168%
+Procent zutylizowanej krwi od dawcow = 1.60385%
+Pacjentow przechodzacych przez punkt = 264
+Srednia liczba pacjentow w kolejce = 0.372881
+Liczba normalnych zamowien = 34
+Liczba specialnych zamowien = 41
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.79096%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2703
+Krew przechodzaca przez punkt gr.A = 2108
+Krew przechodzaca przez punkt gr.B = 595
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1098
+Krew wyslana na badania naukowe = 210
+Krew wyslana na badania naukowe gr.A = 125
+Krew wyslana na badania naukowe gr.B= 85
+Srednia liczba jednostek krwi w kolejce = 6.1909
+Zutylizowana krew = 1451
+Zutylizowana krew z normalnego zamowienia = 498
+Zutylizowana krew ze specjalneg zamowienia = 428
+Zutylizowana krew od dawcow = 525
+Procent zutylizowanej krwi = 53.6811%
+Procent zutylizowanej krwi z normalnego zamowienia = 18.424%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 15.8343%
+Procent zutylizowanej krwi od dawcow = 1.10988%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.370044
+Liczba normalnych zamowien = 37
+Liczba specialnych zamowien = 45
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.60793%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2607
+Krew przechodzaca przez punkt gr.A = 1872
+Krew przechodzaca przez punkt gr.B = 735
+Krew przechodzaca przez punkt gr.A % = 71
+Krew przechodzaca przez punkt gr.B % = 28
+Zuzyta krew przez pacjentow = 1059
+Krew wyslana na badania naukowe = 190
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 100
+Srednia liczba jednostek krwi w kolejce = 5.77778
+Zutylizowana krew = 1352
+Zutylizowana krew z normalnego zamowienia = 463
+Zutylizowana krew ze specjalneg zamowienia = 277
+Zutylizowana krew od dawcow = 612
+Procent zutylizowanej krwi = 51.8604%
+Procent zutylizowanej krwi z normalnego zamowienia = 17.7599%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.6252%
+Procent zutylizowanej krwi od dawcow = 0.920598%
+Pacjentow przechodzacych przez punkt = 242
+Srednia liczba pacjentow w kolejce = 0.373457
+Liczba normalnych zamowien = 37
+Liczba specialnych zamowien = 42
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.48148%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2583
+Krew przechodzaca przez punkt gr.A = 1883
+Krew przechodzaca przez punkt gr.B = 700
+Krew przechodzaca przez punkt gr.A % = 72
+Krew przechodzaca przez punkt gr.B % = 27
+Zuzyta krew przez pacjentow = 1058
+Krew wyslana na badania naukowe = 185
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 95
+Srednia liczba jednostek krwi w kolejce = 5.74962
+Zutylizowana krew = 1321
+Zutylizowana krew z normalnego zamowienia = 456
+Zutylizowana krew ze specjalneg zamowienia = 284
+Zutylizowana krew od dawcow = 581
+Procent zutylizowanej krwi = 51.1421%
+Procent zutylizowanej krwi z normalnego zamowienia = 17.6539%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.995%
+Procent zutylizowanej krwi od dawcow = 0.851723%
+Pacjentow przechodzacych przez punkt = 235
+Srednia liczba pacjentow w kolejce = 0.358779
+Liczba normalnych zamowien = 36
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.56489%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2545
+Krew przechodzaca przez punkt gr.A = 1915
+Krew przechodzaca przez punkt gr.B = 630
+Krew przechodzaca przez punkt gr.A % = 75
+Krew przechodzaca przez punkt gr.B % = 24
+Zuzyta krew przez pacjentow = 1116
+Krew wyslana na badania naukowe = 180
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 90
+Srednia liczba jednostek krwi w kolejce = 5.32684
+Zutylizowana krew = 1260
+Zutylizowana krew z normalnego zamowienia = 348
+Zutylizowana krew ze specjalneg zamowienia = 350
+Zutylizowana krew od dawcow = 562
+Procent zutylizowanej krwi = 49.5088%
+Procent zutylizowanej krwi z normalnego zamowienia = 13.6739%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 13.7525%
+Procent zutylizowanej krwi od dawcow = 1.72888%
+Pacjentow przechodzacych przez punkt = 270
+Srednia liczba pacjentow w kolejce = 0.375522
+Liczba normalnych zamowien = 34
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.98053%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2317
+Krew przechodzaca przez punkt gr.A = 1792
+Krew przechodzaca przez punkt gr.B = 525
+Krew przechodzaca przez punkt gr.A % = 77
+Krew przechodzaca przez punkt gr.B % = 22
+Zuzyta krew przez pacjentow = 1114
+Krew wyslana na badania naukowe = 140
+Krew wyslana na badania naukowe gr.A = 65
+Krew wyslana na badania naukowe gr.B= 75
+Srednia liczba jednostek krwi w kolejce = 5.50538
+Zutylizowana krew = 1057
+Zutylizowana krew z normalnego zamowienia = 350
+Zutylizowana krew ze specjalneg zamowienia = 241
+Zutylizowana krew od dawcow = 466
+Procent zutylizowanej krwi = 45.6193%
+Procent zutylizowanej krwi z normalnego zamowienia = 15.1057%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.4014%
+Procent zutylizowanej krwi od dawcow = 1.3811%
+Pacjentow przechodzacych przez punkt = 252
+Srednia liczba pacjentow w kolejce = 0.387097
+Liczba normalnych zamowien = 31
+Liczba specialnych zamowien = 39
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 5.99078%
+
+
+
+Statystyki:
+N - nowych zamowienien (standardowe zamowienie) = 35
+R - prog zamawiania = 5
+
+Krew przechodzaca przez punkt = 2583
+Krew przechodzaca przez punkt gr.A = 1883
+Krew przechodzaca przez punkt gr.B = 700
+Krew przechodzaca przez punkt gr.A % = 72
+Krew przechodzaca przez punkt gr.B % = 27
+Zuzyta krew przez pacjentow = 1058
+Krew wyslana na badania naukowe = 185
+Krew wyslana na badania naukowe gr.A = 90
+Krew wyslana na badania naukowe gr.B= 95
+Srednia liczba jednostek krwi w kolejce = 5.74962
+Zutylizowana krew = 1321
+Zutylizowana krew z normalnego zamowienia = 456
+Zutylizowana krew ze specjalneg zamowienia = 284
+Zutylizowana krew od dawcow = 581
+Procent zutylizowanej krwi = 51.1421%
+Procent zutylizowanej krwi z normalnego zamowienia = 17.6539%
+Procent zutylizowanej krwi ze specjalnego zamowienia = 10.995%
+Procent zutylizowanej krwi od dawcow = 0.851723%
+Pacjentow przechodzacych przez punkt = 235
+Srednia liczba pacjentow w kolejce = 0.358779
+Liczba normalnych zamowien = 36
+Liczba specialnych zamowien = 43
+Prawdopodobienstwo wystapienia awaryjnego zamowienia = 6.56489%
+
+
